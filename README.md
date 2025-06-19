@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! My name is Andy<br>QA Engineer | Python Automation | Pytest | API & UI testing | Allure | GitHub Actions</h2>
----
-###
 
+###
+---
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ps" height="51" alt="adobephotoshop logo"  />
   <img width="5" />
