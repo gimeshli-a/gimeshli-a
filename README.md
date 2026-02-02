@@ -5,6 +5,8 @@
 <p align="left">
   <img src="assets/bug-hunter-logo.svg?v=4" height="20" alt="Bug Hunter Logo" />
 </p>
+
+###
 ---
 <div align="center">
   <!-- Languages & Core -->
