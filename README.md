@@ -1,4 +1,6 @@
-<h2 align="center">Hi 👋! My name is Andy<br>QA Engineer | Python Automation | Pytest | API & UI testing | Allure | GitHub Actions</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=2600&pause=900&color=00FFF7&center=true&vCenter=true&width=700&lines=Andy+—+QA+Engineer;Python+Automation+%7C+Pytest+%7C+Selenium;Future+SDET" alt="typing" />
+</h1>
 
 ###
 ---
@@ -19,22 +21,6 @@
   <img src="https://skillicons.dev/icons?i=flask,visualstudio,ps,figma" height="51" alt="dev and design" />
 </div>
 
-###
----
-<div align="center">
-  <a href="https://www.linkedin.com/in/andrey-gimeshli" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/a_gimeshli" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="https://discord.gg/XK2pNcnU" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="mailto:gimeshli.a@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
 
 ###
 ---
@@ -63,8 +49,19 @@
 
 ###
 ---
+<p align="center">
+  <a href="https://t.me/a_gimeshli"><img src="https://img.shields.io/badge/Telegram-1E1E1E?style=for-the-badge&logo=telegram&logoColor=00FFF7"/></a>
+  <a href="mailto:gimeshli.a@gmail.com"><img src="https://img.shields.io/badge/Gmail-1E1E1E?style=for-the-badge&logo=gmail&logoColor=FF003C"/></a>
+  <a href="https://www.linkedin.com/in/andrey-gimeshli"><img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=00A0DC"/></a>
+  <a href="https://discord.gg/XK2pNcnU"><img src="https://img.shields.io/badge/Discord-1E1E1E?style=for-the-badge&logo=discord&logoColor=7289DA"/></a>
+</p>
+
 <div align="center">
 <a href="https://send.monobank.ua/6MxRHCHnm9" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Donate via Monobank" width="166" >
 </a>
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=16&duration=3000&pause=1000&color=8EF0FF&center=true&vCenter=true&width=380&lines=Console+session+closed.;Awaiting+next+command." />
+</p>
