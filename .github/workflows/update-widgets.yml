@@ -1,0 +1,38 @@
+name: Update GitHub Widgets
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Раз в сутки
+  workflow_dispatch: # Возможность запустить вручную
+  push:
+    branches:
+      - main
+
+jobs:
+  update-widgets:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download Streak Stats
+        run: |
+          curl -f -o assets/streak-stats.svg "https://streak-stats.demolab.com?user=gimeshli-a&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" || echo "Streak stats download failed"
+
+      - name: Download Activity Graph
+        run: |
+          curl -f -o assets/activity-graph.svg "https://github-readme-activity-graph.vercel.app/graph?username=gimeshli-a&radius=8&theme=noctis-minimus&area=true&order=5" || echo "Activity graph download failed"
+
+      - name: Download Trophies
+        run: |
+          # Используем -f чтобы curl выдал ошибку при 503, и || чтобы не упал весь workflow
+          curl -f -o assets/trophies.svg "https://github-profile-trophy.vercel.app?username=gimeshli-a&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" || echo "Trophies download failed (Service might be down)"
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: update github widgets [skip ci]" && git push)
