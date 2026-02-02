@@ -36,7 +36,7 @@
 </table>
 
 <div align="center">
-  <img src="assets/activity-graph.svg" height="140" width="100%" alt="activity graph" />
+  <img src="assets/activity-graph.svg" width="100%" alt="activity graph" />
 </div>
 
 ###
