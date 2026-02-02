@@ -4,10 +4,12 @@
 ---
 <div align="center">
   <!-- Languages & Core -->
-  <img src="https://skillicons.dev/icons?i=py" height="51" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=py,js" height="51" alt="languages" />
   <img width="5" />
   <!-- Testing Tools -->
-  <img src="https://skillicons.dev/icons?i=selenium,playwright,postman,jenkins,jmeter" height="51" alt="testing tools" />
+  <img src="https://skillicons.dev/icons?i=selenium,postman,jenkins" height="51" alt="testing tools" />
+  <img src="https://img.shields.io/static/v1?message=Playwright&logo=playwright&label=&color=2EAD33&logoColor=white&labelColor=&style=for-the-badge" height="51" alt="playwright" />
+  <img src="https://img.shields.io/static/v1?message=JMeter&logo=apache-jmeter&label=&color=D22128&logoColor=white&labelColor=&style=for-the-badge" height="51" alt="jmeter" />
   <img width="5" />
   <!-- Infrastructure & DB -->
   <img src="https://skillicons.dev/icons?i=docker,linux,github,git" height="51" alt="infrastructure" />
