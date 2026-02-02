@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left">
-  <img src="assets/bug-hunter-logo.svg?v=6" height="20" alt="Bug Hunter Logo" />
+  <img src="assets/bug-hunter-logo.svg?v=8" height="20" alt="Bug Hunter Logo" align="middle" />
 </p>
 
 ###
