@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=4000&pause=1500&color=00FFF7&center=true&vCenter=true&width=800&lines=Andy+—+AQA+Engineer;Python+Automation+%7C+Pytest+%7C+Selenium;API+%26+UI+Testing+%7C+Allure+%7C+GitHub+Actions" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=5000&pause=1500&color=00FFF7&center=true&vCenter=true&width=800&lines=Andy+—+AQA+Engineer;Python+Automation+%7C+Pytest+%7C+Selenium;API+%26+UI+Testing+%7C+Allure+%7C+GitHub+Actions" alt="typing" />
 </h1>
 
 ###
@@ -63,5 +63,5 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=16&duration=4000&pause=1500&color=8EF0FF&center=true&vCenter=true&width=380&lines=Console+session+closed.;Awaiting+next+command." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=16&duration=5000&pause=1500&color=8EF0FF&center=true&vCenter=true&width=380&lines=Console+session+closed.;Awaiting+next+command." />
 </p>
