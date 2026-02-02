@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=5000&pause=1500&color=00FFF7&center=true&vCenter=true&width=800&lines=Andy+—+AQA+Engineer;Python+Automation+%7C+Pytest+%7C+Selenium;API+%26+UI+Testing+%7C+Allure+%7C+GitHub+Actions" alt="typing" />
 </h1>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Bug_Hunter-1E1E1E?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC8UlEQVR4nO2Yv2sUQRTHP7G6SByIlY0p7D9grSAYu9TCIoX/gq0pLoogpAsW6m6IIn9AtFAnYidpgoVgoSAYu9TCIoX9A8RO0gQLwcIidpI8S768m9vbe9m9vS94YGF2582878z7zXv7AoaGhoaGhoaGhoYOfAtcA64B94B7fW890AnuALvAHeAeUAfqffSgA8wD68AGsN677O0A68AmsNH7vW9MAm87Y7qYAr4Br4AbPcp9DXwFXuvO180vYAd4BbwH9gF/vXIDuAa8A+7o/3PzBtgE3ut97HrvC8Ab4IPuWw88Ad7pvtV6A7wEvvR+70vgVff7r8AT4E3v974G9ntv/Lz3u60PqBvArf+M8S09wEHgNfCq95536AHm9X939O86fUDdAJb0f6f17zo9wGX933X9u04fUDeAZf3faf27Th9QN4Bl/d9p/btOH1A3gGX932n9u04fUDeAZf3faf27Th9QN4Bl/d9p/btOH1A3gGX932n9u04fUDeAZf3faf27Th9QN4Bl/d9p/btOH1A3gGX932n9u04fUDeAZf3faf27Th9QN4Bl/d9p/btOH1A3gGX932n9u04fUDeAZf3faf27Th9QN4Bl/d9p/btOH1A3gGX932n9u04fUDeAZf3faf27Th9QN4Bl/d9p/btOH1A3gGX932n9u04fUDeAZf3faf27Th9QN4Bl/d9p/btOH1A3gGX932n9u04fUDeAZf3faf27Th9QN4Bl/d9p/btOH1A3gGX932n9u04fUDeAZf3faf27Th9QN4Bl/d9p/btOH1A3gGX932n9u04fUDeAZf3faf27Th9QN4Bl/d9p/btOH1A3gGX932n9u04fUDeAZf3faf27Th9QN4Bl/d9p/btOH1A3gGX932n9u04fUDeAZf3faf27Th9QN4Bl/d9p/btOH1A3gGX932n9u04fUDeAZf3faf27Th9QN4Bl/d9p/btOH/An8A74AHzQ+6XvI/AK2AbW9D7fW35O/wd4U67e16GhoaGhoaGhoaFp8Re7D965vVf07AAAAABJRU5ErkJggg==&logoColor=00FFF7" height="25" alt="Bug Hunter" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Bug_Hunter-1E1E1E?style=for-the-badge&logo=https://cdn-icons-png.flaticon.com/512/1320/1320457.png&logoColor=white" />
 </p>
 
 ###
@@ -71,5 +71,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gimeshli-a&color=00FFF7&style=flat-square&label=VISITORS+COUNT&labelColor=000000" alt="visitors count" />
+  <img src="https://komarev.com/ghpvc/?username=gimeshli-a&color=000000&style=flat-square&label=VISITORS+COUNT&labelColor=00FFF7" alt="visitors count" />
 </p>
