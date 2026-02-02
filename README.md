@@ -48,7 +48,7 @@
 ###
 ---
 <div align="center">
-  <img src="assets/github-stats.svg" height="180" alt="stats card" /><img src="assets/streak-stats.svg" height="180" alt="streak graph" />
+  <img src="assets/github-stats.svg" height="155" alt="stats card" /><img src="assets/streak-stats.svg" height="155" alt="streak graph" />
 </div>
 
 <div align="center">
