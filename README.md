@@ -62,16 +62,22 @@
   <a href="https://discord.gg/XK2pNcnU"><img src="https://img.shields.io/badge/Discord-1E1E1E?style=for-the-badge&logo=discord&logoColor=7289DA"/></a>
 </p>
 
+###
+---
 <div align="center">
 <a href="https://send.monobank.ua/6MxRHCHnm9" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Donate via Monobank" width="166" >
 </a>
 </div>
 
+###
+---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=16&duration=5000&pause=1500&color=8EF0FF&center=true&vCenter=true&width=450&lines=Success:+Profile+synchronized.;Last+updated:+02.02.2025;System+idle." />
 </p>
 
+###
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gimeshli-a&color=000000&style=flat-square&label=VISITORS+COUNT&labelColor=00FFF7" alt="visitors count" />
 </p>
