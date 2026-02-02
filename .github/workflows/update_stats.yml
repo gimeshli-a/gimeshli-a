@@ -30,9 +30,9 @@ jobs:
         run: |
           curl -s "https://github-readme-activity-graph.vercel.app/graph?username=gimeshli-a&radius=8&theme=noctis-minimus&area=true&order=5" -o assets/activity-graph.svg
 
-      - name: Download Readme Stats (Alternative to Trophies)
+      - name: Download Profile Summary Stats (Alternative to Readme Stats)
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api?username=gimeshli-a&show_icons=true&theme=dracula" -o assets/github-stats.svg
+          curl -s "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gimeshli-a&theme=dracula" -o assets/github-stats.svg
 
       - name: Commit and Push changes
         run: |
