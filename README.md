@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/1320/1320457.png" width="30" /> <b>Bug Hunter</b>
+  <img src="https://cdn-icons-png.flaticon.com/512/1320/1320457.png" width="30" align="center" /> <b>Bug Hunter</b>
 </p>
 
 ###
