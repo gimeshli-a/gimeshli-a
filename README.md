@@ -48,11 +48,11 @@
 ###
 ---
 <div align="center">
-  <img src="assets/streak-stats.svg" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=gimeshli-a&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
   
-  <img src="assets/activity-graph.svg" height="200" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gimeshli-a&radius=8&theme=noctis-minimus&area=true&order=5" height="200" alt="activity-graph graph" />
   
-  <img src="assets/trophies.svg" height="150" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=gimeshli-a&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
 
 ###
@@ -66,9 +66,5 @@
 ###
 ---
 <div align="center">
-
-
 <a href="https://buymeacoffee.com/https://send.monobank.ua/6MxRHCHnm9"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me a Coffee" width="166" ></a>
-
-
 </div>
