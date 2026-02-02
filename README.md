@@ -48,11 +48,12 @@
 ###
 ---
 <div align="center">
-  <img src="assets/streak-stats.svg" height="150" alt="streak graph" />
-  
-  <img src="assets/activity-graph.svg" height="200" alt="activity-graph graph" />
-  
-  <img src="assets/github-stats.svg" height="150" alt="stats card" />
+  <img src="assets/github-stats.svg" width="100%" alt="stats card" />
+</div>
+
+<div align="center">
+  <img src="assets/streak-stats.svg" height="170" alt="streak graph" />
+  <img src="assets/activity-graph.svg" height="170" alt="activity graph" />
 </div>
 
 ###
@@ -66,5 +67,7 @@
 ###
 ---
 <div align="center">
-<a href="https://buymeacoffee.com/https://send.monobank.ua/6MxRHCHnm9"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me a Coffee" width="166" ></a>
+<a href="https://send.monobank.ua/6MxRHCHnm9" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Donate via Monobank" width="166" >
+</a>
 </div>
