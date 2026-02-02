@@ -3,7 +3,29 @@
 ###
 ---
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ps,figma,postman,docker,selenium,jenkins,mongodb,mysql,flask,github,py,visualstudio,linux,githubactions" height="51" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=ps" height="51" alt="adobephotoshop logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=figma" height="51" alt="figma logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=postman" height="51" alt="postman logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=docker" height="51" alt="docker logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="51" alt="selenium logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="51" alt="jenkins logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="51" alt="mongodb logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="51" alt="mysql logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=flask" height="51" alt="flask logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=github" height="51" alt="github logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=py" height="51" alt="python logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="51" alt="visualstudio logo"  />
 </div>
 
 ###
@@ -26,26 +48,27 @@
 ###
 ---
 <div align="center">
-  <img src="assets/streak-stats.svg" height="170" alt="streak graph" />
-  <img src="assets/trophies.svg" height="170" alt="trophy graph" />
-  <br>
-  <img src="assets/activity-graph.svg" width="100%" alt="activity-graph graph" />
+  <img src="assets/streak-stats.svg" height="150" alt="streak graph" />
+  
+  <img src="assets/activity-graph.svg" height="200" alt="activity-graph graph" />
+  
+  <img src="assets/trophies.svg" height="150" alt="trophy graph" />
 </div>
 
 ###
 ---
-<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="assets/pacman-contribution-graph.svg">
 </picture>
-</div>
 
 ###
 ---
 <div align="center">
-  <a href="https://send.monobank.ua/6MxRHCHnm9" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me a Coffee" width="166">
-  </a>
+
+
+<a href="https://buymeacoffee.com/https://send.monobank.ua/6MxRHCHnm9"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me a Coffee" width="166" ></a>
+
+
 </div>
