@@ -2,8 +2,8 @@ name: Update GitHub Stats SVGs
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Раз в день в полночь
-  workflow_dispatch: # Возможность запустить вручную
+    - cron: '0 0 * * *'
+  workflow_dispatch:
   push:
     branches:
       - main

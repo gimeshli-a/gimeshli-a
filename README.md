@@ -3,29 +3,20 @@
 ###
 ---
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ps" height="51" alt="adobephotoshop logo"  />
+  <!-- Languages & Core -->
+  <img src="https://skillicons.dev/icons?i=py" height="51" alt="python logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=figma" height="51" alt="figma logo"  />
+  <!-- Testing Tools -->
+  <img src="https://skillicons.dev/icons?i=selenium,postman,jenkins" height="51" alt="testing tools" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=postman" height="51" alt="postman logo"  />
+  <!-- Infrastructure & DB -->
+  <img src="https://skillicons.dev/icons?i=docker,linux,github,git" height="51" alt="infrastructure" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=docker" height="51" alt="docker logo"  />
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="51" alt="databases" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="51" alt="selenium logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="51" alt="jenkins logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="51" alt="mongodb logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="51" alt="mysql logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=flask" height="51" alt="flask logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=github" height="51" alt="github logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=py" height="51" alt="python logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="51" alt="visualstudio logo"  />
+  <!-- Dev & Design -->
+  <img src="https://skillicons.dev/icons?i=flask,visualstudio,ps,figma" height="51" alt="dev and design" />
 </div>
 
 ###
