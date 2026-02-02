@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=5000&pause=1500&color=00FFF7&center=true&vCenter=true&width=800&lines=Andy+—+AQA+Engineer;Python+Automation+%7C+Pytest+%7C+Selenium;API+%26+UI+Testing+%7C+Allure+%7C+GitHub+Actions" alt="typing" />
 </h1>
 
+###
+---
 <p align="left">
   <img src="assets/bug-hunter-logo.svg?v=8" height="20" alt="Bug Hunter Logo" align="middle" />
 </p>
