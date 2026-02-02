@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=5000&pause=1500&color=00FFF7&center=true&vCenter=true&width=800&lines=Andy+—+AQA+Engineer;Python+Automation+%7C+Pytest+%7C+Selenium;API+%26+UI+Testing+%7C+Allure+%7C+GitHub+Actions" alt="typing" />
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Bug_Hunter-1E1E1E?style=for-the-badge&logo=https://cdn-icons-png.flaticon.com/512/1320/1320457.png&logoColor=white" />
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/1320/1320457.png" width="30" /> <b>Bug Hunter</b>
 </p>
 
 ###
