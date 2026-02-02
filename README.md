@@ -2,6 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=5000&pause=1500&color=00FFF7&center=true&vCenter=true&width=800&lines=Andy+—+AQA+Engineer;Python+Automation+%7C+Pytest+%7C+Selenium;API+%26+UI+Testing+%7C+Allure+%7C+GitHub+Actions" alt="typing" />
 </h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AQA_Engineer-00FFF7?style=flat-square&logo=ghostery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bug_Hunter-FF003C?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABXklEQVR4nGP4//8/AyUYI7EByD8AnGZ0mAFks+mYmZlFGEfSMMBkAyMDwwog+wcjI8N/fEpA4AsDA8MqKA0LgOxvjAwM/xkYGH4CcScY7Y+mGf0YfA0MDO8YGBg8GBgYvjAwMHyA6v8MxZ3RDIPl320MDAzvGBgY3jEwMHxnYGD4B8SdYLQfXfPP4P//mRgYGL4wMDC8Z2Bg+MHAwPADEG+FqXn7n+E/Ay0BIxK77x+D6B8GBoZfDLAAtBvA1Kz7x0AJpAAbGBkYVkFpWIDBf+S/A8N/BiR2C8P/2BgYGC4Asf8MDMT6AcYVpvnH8B+mBpnh/6L/DP8Z/jP8B9uNf/8z/EemH2E2MDD8h+mGqfkv9p/hPzId8e8/A6vofwaG/wyM/xkYGBj+M/xn+M/wn+E/w38Y7v6P4f//GP4z/Gf4j7p+MGRmZn7F8B/mP5geAAYKshvD9vH3AAAAAElFTkSuQmCC&logoColor=white" />
+</p>
+
 ###
 ---
 <div align="center">
