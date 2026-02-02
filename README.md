@@ -63,5 +63,5 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=16&duration=5000&pause=1500&color=8EF0FF&center=true&vCenter=true&width=380&lines=Console+session+closed.;Awaiting+next+command." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=16&duration=5000&pause=1500&color=8EF0FF&center=true&vCenter=true&width=450&lines=Success:+Profile+synchronized.;Last+updated:+02.02.2025;System+idle." />
 </p>
