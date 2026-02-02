@@ -7,7 +7,7 @@
   <img src="https://skillicons.dev/icons?i=py" height="51" alt="python logo" />
   <img width="5" />
   <!-- Testing Tools -->
-  <img src="https://skillicons.dev/icons?i=selenium,postman,jenkins" height="51" alt="testing tools" />
+  <img src="https://skillicons.dev/icons?i=selenium,playwright,postman,jenkins,jmeter" height="51" alt="testing tools" />
   <img width="5" />
   <!-- Infrastructure & DB -->
   <img src="https://skillicons.dev/icons?i=docker,linux,github,git" height="51" alt="infrastructure" />
