@@ -47,13 +47,14 @@
 
 ###
 ---
-<div align="center">
-  <img src="assets/github-stats.svg" height="155" alt="stats card" /><img src="assets/streak-stats.svg" height="155" alt="streak graph" />
-</div>
+<p align="center">
+  <img src="assets/github-stats.svg" height="150" alt="stats card" />
+  <img src="assets/streak-stats.svg" height="150" alt="streak graph" />
+</p>
 
-<div align="center">
+<p align="center">
   <img src="assets/activity-graph.svg" width="100%" alt="activity graph" />
-</div>
+</p>
 
 ###
 ---
