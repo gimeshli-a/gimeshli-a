@@ -48,12 +48,12 @@
 ###
 ---
 <div align="center">
-  <img src="assets/github-stats.svg" width="100%" alt="stats card" />
+  <img src="assets/github-stats.svg" height="180" alt="stats card" />
+  <img src="assets/streak-stats.svg" height="180" alt="streak graph" />
 </div>
 
 <div align="center">
-  <img src="assets/streak-stats.svg" height="170" alt="streak graph" />
-  <img src="assets/activity-graph.svg" height="170" alt="activity graph" />
+  <img src="assets/activity-graph.svg" width="100%" alt="activity graph" />
 </div>
 
 ###
