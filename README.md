@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Bug-1E1E1E?style=for-the-badge&logoColor=white" /><img src="https://img.shields.io/badge/%20-Hunter-FFA500?style=for-the-badge&labelColor=FFA500&color=1E1E1E" />
+  <img src="https://img.shields.io/badge/Bug-black?style=for-the-badge" /><img src="https://img.shields.io/badge/Hunter-orange?style=for-the-badge&logoColor=black&labelColor=orange&color=orange" />
 </p>
 
 ###
