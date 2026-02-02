@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=2600&pause=900&color=00FFF7&center=true&vCenter=true&width=700&lines=Andy+—+QA+Engineer;Python+Automation+%7C+Pytest+%7C+Selenium;Future+SDET" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=Hi+👋!;Andy+—+AQA+Engineer;Python+Automation+%7C+Pytest+%7C+Selenium;API+%26+UI+Testing+%7C+Allure+%7C+GitHub+Actions" alt="typing" />
 </h1>
 
 ###
