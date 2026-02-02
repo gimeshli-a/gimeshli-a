@@ -3,11 +3,9 @@
 </h1>
 
 <p align="left">
-  <img src="assets/bug-hunter-logo.svg?v=4" height="20" alt="Bug Hunter Logo" />
+  <img src="assets/bug-hunter-logo.svg?v=5" height="20" alt="Bug Hunter Logo" />
 </p>
 
-###
----
 <div align="center">
   <!-- Languages & Core -->
   <img src="https://skillicons.dev/icons?i=py" height="51" alt="python logo" />
